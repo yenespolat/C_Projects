@@ -1,0 +1,1 @@
+{ilk,geç}{ilk,ay}{ilk,avrupa}{ilk,futbol}{ilk,þampiyona}{arka,geç}{arka,ay}{arka,avrupa}{arka,futbol}{arka,þampiyona}{alarak,geç}{alarak,ay}{alarak,avrupa}{alarak,futbol}{alarak,þampiyona}{orman,geç}{orman,ay}{orman,avrupa}{orman,futbol}{orman,þampiyona}{sendika,geç}{sendika,ay}{sendika,avrupa}{sendika,futbol}{sendika,þampiyona}
